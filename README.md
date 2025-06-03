@@ -1,6 +1,6 @@
-CIMCO (Carrier Inspiration Ministries Coin) - README
+# CIMCO (Carrier Inspiration Ministries Coin) - README
 
-🔹 What is CIMCO?
+## What is CIMCO?
 
 CIMCO (Carrier Inspiration Ministries Coin) is a utility token built on the Stellar blockchain to fund, fuel, and facilitate gospel work. It is the financial engine of a broader Kingdom ecosystem that includes:
 	•	PNEUMA Coin – a spiritually symbolic coin reserved for gospel laborers
@@ -10,14 +10,14 @@ CIMCO operates like a pump placed in the river of global markets — drawing val
 
 ⸻
 
-💡 Key Functions
+## Key Functions
 	•	Engages in Market Activity: CIMCO is placed in liquidity pools, trading pairs, and decentralized exchanges.
 	•	Creates Economic Pressure: Its market presence creates the value needed to push resources up the hill.
 	•	Funds the Ministry Pipeline: Provides the financial force behind the delivery of resources via PNEUMA and VESSEL.
 
 ⸻
 
-🔁 How It Works
+## How It Works
 
 Global Markets (River)
       ↓
@@ -35,7 +35,7 @@ Without CIMCO actively engaging the markets, the rest of the system cannot flow.
 
 ⸻
 
-📖 Why It Matters
+## Why It Matters
 
 Ministry workers shouldn’t have to beg for scraps while the world swims in abundance. CIMCO bridges that divide.
 
@@ -50,7 +50,7 @@ It moves value from the hands of the world to the hands of the harvest.
 
 ⸻
 
-🚀 Get Involved
+## Get Involved
 	•	Join the liquidity pool (coming soon)
 	•	Trade CIMCO/XLM or CIMCO/USDC on StellarTerm
 	•	Partner your ministry to receive support via PNEUMA
@@ -58,17 +58,16 @@ It moves value from the hands of the world to the hands of the harvest.
 
 ⸻
 
-🔐 Built on Stellar
+## Built on Stellar
 	•	Fast, low-fee transactions
 	•	Built-in transparency via public ledger
 	•	Interoperability with LOBSTR, MoneyGram, and more
 
 ⸻
 
-📫 Contact & Community
+## Contact & Community
 	•	Facebook: Project Pneuma
-	•	Discord: Coming Soon
-	•	Email: [Insert contact here]
+	•	Email: carrier.inspiration@gmail.com
 
 ⸻
 
