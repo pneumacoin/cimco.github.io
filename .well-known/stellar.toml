@@ -1,0 +1,18 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+HOME_DOMAIN="cimco.github.io"
+
+[DOCUMENTATION]
+org_name = "Carrier Inspiration Ministries"
+org_url = "https://denim-firewall-da7.notion.site/Hello-I-m-Bryce-Nathanial-Carrier-1497a0361320802cbfdbe4db04f8deac"
+org_description = "A faith-based mission working to strengthen the church connection between the USA and Zambia through PNEUMA, a Christian token of generosity and Gospel purpose."
+
+[[CURRENCIES]]
+code = "CIMCO"
+issuer = "GARWXOINWTEWUU4JH3XCDGIDNAYXEILOOKSKZDVOUM6WRC4FO7XM3SKP"
+display_decimals = 7
+name = "Carrier Inspiration Ministries Coin"
+desc = "CIMCO is the financial engine of Project Pneuma, drawing value from the markets and sending it into gospel ministry."
+image = "https://cimco.github.io/CIMCO-logo.png"
